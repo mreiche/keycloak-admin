@@ -1,0 +1,19 @@
+{
+  "id": "test_realm",
+  "realm": "test_realm",
+  "enabled": true,
+  "displayName": "Test realm",
+  "editUsernameAllowed": true,
+  "internationalizationEnabled": true,
+  "supportedLocales": ["en", "de"],
+  "defaultLocale": "en",
+  "roles": {
+    "realm": [
+      {
+        "name": "system-administrator",
+        "description": "Describe my role",
+        "composite": false,
+        "clientRole": false
+      }
+    ]}
+}

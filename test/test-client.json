@@ -1,0 +1,13 @@
+{
+  "clientId": "test_client",
+  "enabled": true,
+  "protocol": "openid-connect",
+  "redirectUris": ["*"],
+  "publicClient": false,
+  "directAccessGrantsEnabled": true,
+  "standardFlowEnabled": true,
+  "serviceAccountsEnabled": true,
+  "authorizationServicesEnabled": true,
+  "clientAuthenticatorType": "client-secret",
+  "secret": "secret"
+}

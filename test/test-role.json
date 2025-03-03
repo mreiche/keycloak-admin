@@ -1,0 +1,6 @@
+{
+  "name": "client-service-account",
+  "description": "Describe my role",
+  "composite": false,
+  "clientRole": false
+}
